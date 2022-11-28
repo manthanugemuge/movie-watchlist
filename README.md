@@ -8,7 +8,7 @@ A solo project from Scrimba. The only resource provided was a Figma design file 
 -   Watchlist.html loads and displays data from local storage.
 
 ## About the Project
-Movie Website UI with help of HTML & CSS.
+Movie Website implemented in HTML & CSS.
 
 ## How to use Project
 
