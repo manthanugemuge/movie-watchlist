@@ -10,6 +10,11 @@ A solo project from Scrimba. The only resource provided was a Figma design file 
 ## About the Project
 Movie Website implemented in HTML & CSS.
 
+## Tech Stacks Used :
+
+
+
+
 ## How to use Project
 
 - Download or clone the repository Website : 
