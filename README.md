@@ -10,6 +10,13 @@ A solo project from Scrimba. The only resource provided was a Figma design file 
 ## About the Project
 Movie Website UI with help of HTML & CSS.
 
+## How to use Project
+
+- Download or clone the repository Website : 
+```
+https://github.com/manthanugemuge/movie-watchlist.git
+``` 
+
 Run Directly here -
 
 [![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/manthanugemuge/movie-watchlist/archive/refs/heads/main.zip) 
